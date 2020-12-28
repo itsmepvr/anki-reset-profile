@@ -1,0 +1,9 @@
+{
+  "name": "Reset Profile",
+  "package": "anki-reset-profile",
+  "ankiweb_id": "1976367957",
+  "author": "Venkata Ramana P",
+  "version": "v0.0.1",
+  "homepage": "https://github.com/itsmepvr/anki-reset-profile",
+  "conflicts": []
+}
