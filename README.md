@@ -34,6 +34,4 @@ Compatible with Anki version >= v2.1.20
 
 ## Copyright and License
 
-Copyright 2019 Itsmepvr
-
 Licensed under [The MIT License](LICENSE).
