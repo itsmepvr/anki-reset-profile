@@ -3,9 +3,6 @@ import shutil
 from aqt.qt import *
 from aqt import mw
 from aqt.utils import showInfo, askUser, showText
-from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtCore import QCoreApplication
-from PyQt5.QtWidgets import QAction, QProgressDialog
 from anki import version as anki_version
 
 
